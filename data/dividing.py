@@ -1,0 +1,13 @@
+DGEV_order_480p_metis = [[i] for i in range(480)]
+DGEV_kt_480p_metis = [[i] for i in range(480)]
+BJEV_order_519p_metis = [[i] for i in range(519)]
+BJEV_kt_519p_metis = [[i] for i in range(519)]
+HZEV_order_329p_metis = [[i] for i in range(329)]
+HZEV_kt_329p_metis = [[i] for i in range(329)]
+
+DGEV_order_100_100p_metis = [[i] for i in range(100)]
+DGEV_kt_100_100p_metis = [[i] for i in range(100)]
+BJEV_order_100_100p_metis = [[i] for i in range(100)]
+BJEV_kt_100_100p_metis = [[i] for i in range(100)]
+HZEV_order_100_100p_metis = [[i] for i in range(100)]
+HZEV_kt_100_100p_metis = [[i] for i in range(100)]
